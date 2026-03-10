@@ -141,6 +141,12 @@ main {
     color: rgb(255, 255, 255);
     padding: 10px;
 }
+#mengogif{
+    width: 150px;
+    right: 0;
+    position: fixed;
+    bottom: 0;
+}
 
 
 
